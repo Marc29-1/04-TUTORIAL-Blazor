@@ -2,7 +2,7 @@ namespace TODO.CoreHosted.Shared
 {
     public class WeatherForecast
     {
-        public DateOnly Date { get; set; }
+        public DateOnly Date { get; set; }//nešto//
 
         public int TemperatureC { get; set; }
 
